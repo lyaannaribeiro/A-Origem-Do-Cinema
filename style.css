@@ -8,11 +8,11 @@ h1 {
 }
 
 #titulo {
-	height: 220px;
+	height: 350px;
 	border: 8px solid #FFFF00;
-	padding: 10px;
-	margin-left: 400px;
-	margin-right: 400px;
+	padding: 20px;
+	margin-left: 350px;
+	margin-right: 350px;
 	font-size: 100px;
 } 
 
@@ -32,7 +32,7 @@ p {
 
 
 .cinematografo {
-	 height: 500px;
+	 height: 400px;
 	 margin-left: 100px;
    
 }
